@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Blockchain", "Blockchain\Blockchain.pyproj", "{3033AC9B-622D-40E6-974E-E3AD7F5F2B29}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Blockchain", "Blockchain.pyproj", "{3033AC9B-622D-40E6-974E-E3AD7F5F2B29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
